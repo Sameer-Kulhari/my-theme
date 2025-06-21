@@ -1,6 +1,6 @@
 ---
-layout = default
----
+layout : default
+--- 
 
 # my-theme
-## my-theme is a simple theme for jakyll
+## my-theme is a simple theme for better looks
