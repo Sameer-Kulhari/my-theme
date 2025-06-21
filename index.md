@@ -1,6 +1,6 @@
 ---
-topic = My-Theme
+layout = default
 ---
 
 # my-theme
-## my-theme is a simple theme for markdown pages 
+## my-theme is a simple theme for jakyll
